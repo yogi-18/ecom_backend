@@ -1,0 +1,20 @@
+{
+  "appointment": [
+    {
+      "productName": "thar",
+      "productPrice": "22 lakh",
+      "image": "https://w0.peakpx.com/wallpaper/464/263/HD-wallpaper-thar-car-wagon-wrangler-thumbnail.jpg",
+      "stock": "1",
+      "isAvailable": "available",
+      "id": 1
+    },
+    {
+      "productName": "continental",
+      "productPrice": "4.5 lakhs",
+      "image": "https://w0.peakpx.com/wallpaper/129/44/HD-wallpaper-bullet-continental-gt-650-bike-royal-enfield-thumbnail.jpg",
+      "stock": "1",
+      "isAvailable": "available",
+      "id": 2
+    }
+  ]
+}
